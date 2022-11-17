@@ -4,6 +4,10 @@ Solution to the [Scrimba React course digital business card solo project](https:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+
+<img src="preview.jpg" width ="500">
+
 ## Usage
 
 ### Install dependencies
@@ -23,7 +27,3 @@ npm start
 ```
 npm run build
 ```
-
-## Preview
-
-<img src="preview.jpg" width ="300">
