@@ -26,4 +26,4 @@ npm run build
 
 ## Preview
 
-![](./preview.jpg)
+<img src="preview.jpg" width ="300">
